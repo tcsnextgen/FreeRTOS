@@ -1,0 +1,9 @@
+ HELLO from the multiboot compliant FreeRTOS kernel!
+
+ Running main_spi_loop().
+
+ Galileo board Spi Loop Back Test.
+
+
+ Txdata : 00000005 rxdata : 00000005 
+  SPI internal loop back test succeeded
